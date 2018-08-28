@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rajat.Personal.Demo", "Zigram.SecretSauce.DataHarnessing\Rajat.Personal.Demo.csproj", "{0201ECB0-5F91-4EA0-85FD-D0E8CA9EA86A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rajat.Personal.Demo.DAL", "Zigram.SecretSauce.DataHarnessing.DAL\Rajat.Personal.Demo.DAL.csproj", "{5CEDF66E-E5C8-429B-ADEC-566771A0AABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0201ECB0-5F91-4EA0-85FD-D0E8CA9EA86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0201ECB0-5F91-4EA0-85FD-D0E8CA9EA86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0201ECB0-5F91-4EA0-85FD-D0E8CA9EA86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0201ECB0-5F91-4EA0-85FD-D0E8CA9EA86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEDF66E-E5C8-429B-ADEC-566771A0AABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEDF66E-E5C8-429B-ADEC-566771A0AABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEDF66E-E5C8-429B-ADEC-566771A0AABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEDF66E-E5C8-429B-ADEC-566771A0AABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D94F8AE4-DA37-45D4-B3AE-4551EC67A62D}
+	EndGlobalSection
+EndGlobal
